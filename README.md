@@ -22,7 +22,7 @@ In Identity Inspector, connect the UIView to SpringView Class and set the animat
 ## Demo The Animations
 ![](http://cl.ly/image/1n1E2j3W3y24/springscreen.jpg)
 
-## Chaining Animations
+## Chaining Animatio111ns
     layer.y = -50
     animateToNext {
       layer.animation = "fall"
@@ -91,7 +91,7 @@ Allows you to animate without code. Don't need to use this if you plan to start 
 ## Autohide
 Saves you the hassle of adding a line "layer.alpha = 0" in viewDidLoad().
 
-## Known issue
+## Known issue1111
 Animations won't autostart when view is reached via performSegueWithIdentifier.
 
 ## Tutorials
@@ -101,6 +101,6 @@ Animations won't autostart when view is reached via performSegueWithIdentifier.
 ## ChangeLog
 - At [ChangeLog](https://github.com/MengTo/Spring/wiki/CHANGELOG) wiki page
 
-## License
+## License11111
 
 Spring is released under the MIT license. See LICENSE for details.
